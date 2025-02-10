@@ -1,4 +1,4 @@
-## <div-align="center"> 👋 Hi! I'm `@lauragreff, welcome to my `GitHub profile` (◕‿◕).</div>
+## <div align="center"> 👋 Hi! I'm `@lauragreff, welcome to my `GitHub profile` (◕‿◕).</div>
 
 <!--
 **lauragreff/lauragreff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
