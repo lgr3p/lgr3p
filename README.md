@@ -6,17 +6,21 @@
 - 🔭 Currently studying **science and technology** at UFABC
 - 🖖 **Pronouns:** she/her
 
+## 📈 Stats
+<div align="center">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauragreff&cardType=github&bg_color=00000000&theme=shadow_red&card_width=200" alt="readme-typing-svg">
+
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=shadow_red&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
+    <img width="50%" alt="lauragreff's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lauragreff&cardType=github&theme=shadow_red&preferLogin=true&Background=00000000&rank_icon=github&show_icons=true&hide=stars,contribs">
+  </a>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=lauragreff&theme=shadow_red&background=00000000" alt="GitHub Streak" />
+  </a>
+</div>
+</div>
+
 <!--
-**lauragreff/lauragreff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
