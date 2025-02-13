@@ -6,6 +6,20 @@
 - 🔭 Currently studying **science and technology** at UFABC
 - 🖖 **Pronouns:** she/her
 
+## 🚀 Working with:
+
+<details>
+  <summary>Clique para expandir</summary>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img style="width: 90%; max-width: 100px;" alt="Python logo" src="https://github.com/user-attachments/assets/bbc3c53b-b957-4ffe-a316-15ca0a7f259b">
+        <br>Python
+      </td>
+    </tr>
+  </table>
+</details>
+
 ## 📈 Stats
 <div align="center">
   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauragreff&cardType=github&bg_color=00000000&theme=shadow_red&card_width=200" alt="readme-typing-svg">
