@@ -17,7 +17,7 @@
         <br>Python
       </td>
       <td align="center">
-        <img style="width: 90%; max-width: 100px;" alt="Kali Linux logo" scr="https://github.com/user-attachments/assets/73a690ba-d522-4c19-92a1-a42ae4a64b5b">
+        <img style="width: 90%; max-width: 100px;" alt="Kali Linux logo" src="https://github.com/user-attachments/assets/73a690ba-d522-4c19-92a1-a42ae4a64b5b">
         <br>Kali Linux
       </td>
     </tr>
