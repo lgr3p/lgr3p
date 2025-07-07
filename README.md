@@ -16,6 +16,10 @@
         <img style="width: 90%; max-width: 100px;" alt="Python logo" src="https://github.com/user-attachments/assets/bbc3c53b-b957-4ffe-a316-15ca0a7f259b">
         <br>Python
       </td>
+      <td align="center">
+        <img style="width: 90%; max-width: 100px;" alt="Kali Linux logo" scr="https://github.com/user-attachments/assets/73a690ba-d522-4c19-92a1-a42ae4a64b5b">
+        <br>Kali Linux
+      </td>
     </tr>
   </table>
 </details>
