@@ -1,4 +1,4 @@
-## <div align="center"> 👋 Hi! I'm `@lauragreff`, welcome to my `GitHub profile`!.</div>
+## <div align="center"> 👋 Hi! I'm `@lgr3p`, welcome to my `GitHub profile`!.</div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2E25&width=435&separator=%3C&lines=printf(%22Hello%2C+world!%5Cn%22);%3Cprintf(%22Initiating+program...%5Cn%22);" alt="Typing SVG" /></a>
 
