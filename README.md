@@ -25,17 +25,12 @@
 
 ## 📈 Stats
 <div align="center">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauragreff&cardType=github&bg_color=00000000&theme=shadow_red&card_width=200" alt="readme-typing-svg">
 
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lauragreff?cardType=github&theme=graywhite&fontFamily=&preferLogin=false&Border=4E0000&Text=B94242&Background=00000000&Title=9A0000&Ring=4E0000&borderRadius=4)](https://git.io/awesome-stats-card)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lgr3p?cardType=github&theme=graywhite&fontFamily=&preferLogin=false&Border=4E0000&Text=B94242&Background=00000000&Title=9A0000&Ring=4E0000&borderRadius=4)](https://git.io/awesome-stats-card)
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=lauragreff&theme=shadow_red&background=00000000" alt="GitHub Streak" />
+    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=lgr3p&theme=shadow_red&background=00000000" alt="GitHub Streak" />
   </a>
 </div>
 </div>
-
-<!--
-
--->
